@@ -1,0 +1,2 @@
+1. Do the rates table, and insert in database.
+2. Login details for cleaner -> Username = Cleaner ID....Password = 123 (with md5 encyption algorithm)
