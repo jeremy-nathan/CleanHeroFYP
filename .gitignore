@@ -1,0 +1,17 @@
+admin/assets/
+admin/plugins/
+admin/sass/
+book/css/
+book/demos/
+book/font/
+book/images/
+book/include/
+book/js/
+book/movers/
+book/sass/
+book/testbench.php
+book/testbenchv2.php
+cleaner/assets/
+cleaner/plugins/
+cleaner/sass/
+vendor/
